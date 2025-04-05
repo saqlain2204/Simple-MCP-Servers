@@ -20,7 +20,7 @@ def add(a: int, b: int) -> int:
 @mcp.tool()
 def area_of_triangle(b: int, h: int) -> float:
     """
-    Calculate the area of the height
+    Calculate the area of the traingle
 
     Args:
         b: Base of the triangle
