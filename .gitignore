@@ -1,3 +1,4 @@
 .env
 myenv
 .cursor/mcp.json
+src\servers\weather-server\.env
